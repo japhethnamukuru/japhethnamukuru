@@ -62,6 +62,8 @@ I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlp
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Namukuru254&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Namukuru254&theme=omni&show_icons=true)
+
 ---
 
 ### :writing_hand: Blog Posts :
