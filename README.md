@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -10,7 +9,7 @@
   <a href="https://twitter.com/JaphethNamukuru?t=fT7MZYHhMbOUzarNXlK_4w&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="">
+  <a href="https://dscmasenouniversity.slack.com/archives/C01GX9ZVD8T/p1608008376000200">
     <img src="https://img.shields.io/badge/Slack-darkmagenta?style=for-the-badge&logo=slack&logoColor=blue" alt="Slack Badge"/>
   </a>
 </div>
