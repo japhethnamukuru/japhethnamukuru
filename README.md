@@ -27,7 +27,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am a Full Stack Software Engineer student at ALX Africa, <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 - :telescope: I’m open to work as a Software Engineer and contribute to frontend and backend programs and APIs for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
