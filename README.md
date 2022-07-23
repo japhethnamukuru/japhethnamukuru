@@ -10,6 +10,9 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Slack-darkmagenta?style=for-the-badge&logo=slack&logoColor=blue" alt="Slack Badge"/>
+  </a>
 </div>
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=Namukuru254&style=flat-square&color=blue" alt=""/>
