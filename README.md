@@ -68,7 +68,7 @@ I am a Full Stack Software Engineer student at ALX Africa, <img src="https://med
 
 ---
 
-### :fire: My Stats :
+### :fire: GitHub Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Namukuru254&theme=dark&background=000000)](https://git.io/streak-stats)
 
