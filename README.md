@@ -81,6 +81,7 @@ I am a Full Stack Software Engineer student at ALX Africa, <img src="https://med
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Hi there!👋](https://dev.to/namukuru254/hi-there-2hbg)
 - [Programming.](https://dev.to/namukuru254/programming-f89)
 <!-- BLOG-POST-LIST:END -->
 <!--
