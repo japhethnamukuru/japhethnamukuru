@@ -16,7 +16,7 @@
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=Namukuru254&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -53,6 +53,12 @@ I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Namukuru254&theme=dark&background=000000)](https://git.io/streak-stats)
 <!--
 ### Hi there 👋
 **Namukuru254/Namukuru254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
