@@ -32,7 +32,7 @@ I am a Full Stack Software Engineer student at ALX Africa, <img src="https://med
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on [<IMG src="https://img.shields.io/badge/Codewars-white?style=for-the-badge&logo=codewars&logoColor=orange"/>](https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.codewars.com/&ved=2ahUKEwimpKzut4_5AhWNw4UKHWiTCM8QFnoECAsQAQ&usg=AOvVaw3dk_cBsaivKzOmQjAUXBGD) and read tech articles.
+- :zap: In my free time, I solve problems on [<IMG src="https://img.shields.io/badge/Codewars-white?style=for-the-badge&logo=codewars&logoColor=orange"/>](https://www.codewars.com/users/japhethnamukuru) and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/japheth-namukuru-26a631194)
 
