@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "5"
-          feed_list: "https://dev.to/feed/namukuru254,https://@japhethnamukuru.hashnode.dev/rss.xml"
+          feed_list: "https://dev.to/feed/japhethnamukuru,https://@japhethnamukuru.hashnode.dev/rss.xml"
