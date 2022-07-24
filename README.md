@@ -14,7 +14,7 @@
   </a>
 </div>
 <div id="counter" align="center">
-<img src="https://komarev.com/ghpvc/?username=Namukuru254&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=japhethnamukuru&style=flat-square&color=blue" alt=""/>
   <h1>
   Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -70,19 +70,19 @@ I am a Full Stack Software Engineer student at ALX Africa, <img src="https://med
 
 ### :fire: GitHub Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Namukuru254&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=japhethnamukuru&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Namukuru254&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japhethnamukuru&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Namukuru254&theme=omni&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=japhethnamukuru&theme=omni&show_icons=true)
 
 ---
 
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Hi there!👋](https://dev.to/namukuru254/hi-there-2hbg)
-- [Programming.](https://dev.to/namukuru254/programming-f89)
+- [Hi there!👋](https://dev.to/japhethnamukuru/hi-there-2hbg)
+- [Programming.](https://dev.to/japhethnamukuru/programming-f89)
 <!-- BLOG-POST-LIST:END -->
 <!--
 ### Hi there 👋
