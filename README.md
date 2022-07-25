@@ -80,10 +80,10 @@ I am a Full Stack Software Engineer student at ALX Africa, <img src="https://med
 
 ### :writing_hand: Blog Posts :
 
-<!-- BLOG-POST-LIST:START -->
+<!-- HASHNODE:START -->
 - [Hi there!👋](https://dev.to/japhethnamukuru/hi-there-2hbg)
 - [Programming.](https://dev.to/japhethnamukuru/programming-f89)
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE:END -->
 <!--
 ### Hi there 👋
 **Namukuru254/Namukuru254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
