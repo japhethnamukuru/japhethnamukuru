@@ -70,7 +70,7 @@ I am a Full Stack Software Engineer student at ALX Africa, <img src="https://med
 
 ### :fire: GitHub Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=japhethnamukuru&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=japhethnamukuru&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=japhethnamukuru&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
